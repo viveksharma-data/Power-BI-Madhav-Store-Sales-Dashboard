@@ -54,3 +54,11 @@ Suggested image filename: `dashboard-preview.png`
 **Author:** Vivek Sharma  
 **GitHub:** [viveksharma-data](https://github.com/viveksharma-data)  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/viveksharma-dataanalyst/)
+
+
+
+
+
+## Dashboard Preview
+
+![Madhav Store Power BI Dashboard](Power%20bi.png)
